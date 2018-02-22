@@ -1,6 +1,4 @@
-# FirebaseDemo
-
-FirebaseDemo is a sample that shows basic usage of the `FirebaseArduino` API.
+﻿#  is a sample that shows basic usage of the `FirebaseArduino` API.
 
 ## Software setup
 
